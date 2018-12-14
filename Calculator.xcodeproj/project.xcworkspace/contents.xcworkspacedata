@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AutoLayout2.xcodeproj">
+      location = "self:/Users/yukselaggoz/Desktop/AutoLayout2/Calculator.xcodeproj">
    </FileRef>
 </Workspace>
